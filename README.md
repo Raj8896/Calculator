@@ -1,3 +1,14 @@
+# Calculator
+It is a simple calculator project in ReactJS. It just has the basic functionality like,
+Add
+Multiply
+Subtract
+Divide
+Clear
+Equals
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
