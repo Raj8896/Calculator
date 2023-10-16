@@ -1,11 +1,12 @@
 # Calculator
 It is a simple calculator project in ReactJS. It just has the basic functionality like,
-Add
-Multiply
-Subtract
-Divide
-Clear
-Equals
+Add, 
+Multiply, 
+Subtract, 
+Divide, 
+Clear, 
+Equals.
+Here is the hoisted link of the project https://calculator-three-ivory.vercel.app/   
 
 
 
